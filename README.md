@@ -1,3 +1,4 @@
 # This is a Repository
 
-abcde
+This repository is about shell permissions project in ALX.
+
